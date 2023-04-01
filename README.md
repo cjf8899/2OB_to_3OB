@@ -1,4 +1,4 @@
 # 2D Object Bounding box based 3D Object Bounding box estimation method
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/53032349/229258558-c2fd8cfa-1347-40b6-9770-5fa3e6e55d27.mp4" alt="ocr_demo" width="400"/>   <img src="https://user-images.githubusercontent.com/53032349/229258399-f7b6f947-2bc1-4657-85d1-6dbabe3f8a55.mp4" alt="demo2" width="400"/>
+<img src="https://user-images.githubusercontent.com/53032349/229259614-48031bcb-1c72-4c05-902d-d290f65a1498.gif" alt="demo" width="400"/>   <img src="https://user-images.githubusercontent.com/53032349/229259624-241a0c6d-e77c-4e0c-800e-98ff5cd90481.gif" alt="demo2" width="400"/>
